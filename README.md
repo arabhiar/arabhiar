@@ -39,5 +39,9 @@ Hi, I'm [Abhishek Ranjan](https://www.linkedin.com/in/abhishek-ranjan-441702106/
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arabhiar&show_icons=true&theme=gotham" alt="arabhiar" />
-
+<a href="https://github.com/arabhiar/arabhiar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arabhiar&show_icons=true&include_all_commits=true&theme=vue-dark&count_private=true" alt="Abhishek's github stats" />
+</a>
+<br/>
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arabhiar&layout=compact)]
