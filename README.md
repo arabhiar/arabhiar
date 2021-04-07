@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### नमस्ते (Namaste), I am Abhishek Ranjan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/3MXDfBun">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -19,7 +19,7 @@
 
 <br />
 
-Hi, I'm [Abhishek Ranjan](https://www.linkedin.com/in/abhishek-ranjan-441702106/), a passionate self-taught Full Stack web developer and Deep Learning enthusiastic from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+Hi, I am a passionate self-taught Full Stack web developer and Deep Learning enthusiastic from India. I am currently pursuing B.Tech in Comuter Science from [Birla Institute of Technology, Mesra](https://www.bitmesra.ac.in/). My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 
 ---
 
@@ -56,7 +56,7 @@ Top Languages
 
 Coding Stats
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arabhiar&theme=vue-dark)
+![arabhiar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arabhiar&theme=vue-dark)
 
 ---
 <!--START_SECTION:activity-->
