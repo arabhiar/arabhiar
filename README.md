@@ -15,6 +15,7 @@
 
 Hi, I'm [Abhishek Ranjan](https://www.linkedin.com/in/abhishek-ranjan-441702106/), a passionate self-taught Full Stack web developer and Deep Learning enthusiastic from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 
+---
 
   <img align="right" alt="GIF" src="https://camo.githubusercontent.com/bd726cfc172cb5b5dcd647b51810e1d092cf3595c0d2c9a6f202839fd7fd1858/68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e76657263656c2e6170702f6170692f766965773f7569643d7a76613138616e6d6170706c6f70326c6c7a657832366a646e26636f7665725f696d6167653d74727565267468656d653d64656661756c74"  />
   <div align='right'></div>
@@ -39,13 +40,17 @@ Hi, I'm [Abhishek Ranjan](https://www.linkedin.com/in/abhishek-ranjan-441702106/
 
 📈 My GitHub Stats
 
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arabhiar&show_icons=true&theme=gotham" alt="arabhiar" /> -->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=arabhiar&show_icons=true&include_all_commits=true&theme=vue-dark&count_private=true)
+<br/>
 
-<a href="https://github.com/arabhiar/arabhiar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arabhiar&show_icons=true&include_all_commits=true&theme=vue-dark&count_private=true" alt="Abhishek's github stats" />
-</a>
-<br/>
-<br/>
-<!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arabhiar&layout=compact&theme=vue-dark)" alt="Abhishek's top language" /> -->
+Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arabhiar&layout=compact&theme=vue-dark)
+<br/>
+
+Coding Stats
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arabhiar&theme=vue-dark)
+
+---
+<!--START_SECTION:activity-->
