@@ -16,7 +16,8 @@
 Hi, I'm [Abhishek Ranjan](https://www.linkedin.com/in/abhishek-ranjan-441702106/), a passionate self-taught Full Stack web developer and Deep Learning enthusiastic from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/bd726cfc172cb5b5dcd647b51810e1d092cf3595c0d2c9a6f202839fd7fd1858/68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e76657263656c2e6170702f6170692f766965773f7569643d7a76613138616e6d6170706c6f70326c6c7a657832366a646e26636f7665725f696d6167653d74727565267468656d653d64656661756c74"  />
+  <div align='right'></div>
   
 
 **Languages and Tools:**  
@@ -39,6 +40,4 @@ Hi, I'm [Abhishek Ranjan](https://www.linkedin.com/in/abhishek-ranjan-441702106/
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arabhiar&show_icons=true&theme=gotham" alt="arabhiar" />
-
-
 
