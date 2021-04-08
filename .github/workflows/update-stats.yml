@@ -20,4 +20,8 @@ jobs:
           LOCALE: "en"
           SHOW_DAYS_OF_WEEK: "False",
           SHOW_SHORT_INFO: "False",
+<<<<<<< HEAD
           SHOW_LOC_CHART: "False"
+=======
+          SHOW_LOC_CHART: "False"
+>>>>>>> 19d8371cb685201238572ebbf450d5feb4098b8e
