@@ -59,4 +59,7 @@ Coding Stats
 ![arabhiar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arabhiar&theme=vue-dark)
 
 ---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+---
 <!--START_SECTION:activity-->
