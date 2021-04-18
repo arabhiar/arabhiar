@@ -65,10 +65,6 @@ Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arabhiar&layout=compact&theme=vue-dark)
 <br/>
 
-Coding Stats
-
-![arabhiar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arabhiar&theme=vue-dark)
-
 ---
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-177996%20lines%20of%20code-blue)
