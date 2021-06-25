@@ -19,7 +19,7 @@
 
 <br />
 
-Hi, I am a passionate self-taught Full Stack web developer and Deep Learning enthusiastic from India. I am currently pursuing B.Tech in Comuter Science from [Birla Institute of Technology, Mesra](https://www.bitmesra.ac.in/). My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+Hi, I am a passionate self-taught Full-Stack web developer and Deep Learning enthusiastic from India. I am currently pursuing B.Tech in Computer Science from [Birla Institute of Technology, Mesra](https://www.bitmesra.ac.in/). My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 
 ---
 
