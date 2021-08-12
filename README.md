@@ -11,8 +11,8 @@
 <a href="https://www.instagram.com/46h15h3k_/">
   <img align="left" alt="Abhishek's Insta" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/8e583e7ef9b3eb18787975676ed61fadee086578/images/svg/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user/meme_user_70-1/">
-  <img align="left" alt="Abhishek's Insta" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/8e583e7ef9b3eb18787975676ed61fadee086578/images/svg/reddit.svg" />
+<a href="https://www.reddit.com/user/46h15h3k_">
+  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/8e583e7ef9b3eb18787975676ed61fadee086578/images/svg/reddit.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=arabhiar.arabhiar)
