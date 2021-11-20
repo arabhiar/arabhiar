@@ -86,13 +86,14 @@ Top Languages
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      48 mins             ███████████████████░░░░░░   79.37% 
+Java                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.63%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 1 min          █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 1 min          █████████████████████████   100.0%
 
 ```
 
