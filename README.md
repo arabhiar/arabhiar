@@ -67,6 +67,8 @@ Top Languages
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-427%20hrs%2038%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-171%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -86,14 +88,13 @@ Top Languages
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 22 mins        ████████████████████████░   98.4% 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 23 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 23 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
