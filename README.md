@@ -71,7 +71,7 @@ Top Languages
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-171%20Thousand%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
+**I'm an early 🐤** 
 
 ```text
 🌞 Morning    58 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
@@ -82,7 +82,7 @@ Top Languages
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
@@ -98,7 +98,7 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in JavaScript** 
+**💻 I mostly code in JavaScript** 
 
 ```text
 JavaScript               10 repos            ██████████░░░░░░░░░░░░░░░   43.48% 
@@ -111,5 +111,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2022 07:36:03 UTC
+ Last Updated on 12/06/2022 08:15:10 UTC
 <!--END_SECTION:waka-->
