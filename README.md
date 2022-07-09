@@ -67,7 +67,7 @@ Top Languages
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-438%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-171%20Thousand%20lines%20of%20code-blue)
 
@@ -88,14 +88,13 @@ Top Languages
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      35 mins             ███████████████░░░░░░░░░░   62.21% 
-Python                   21 mins             █████████░░░░░░░░░░░░░░░░   37.79%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  57 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    57 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -112,5 +111,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/07/2022 18:43:55 UTC
+ Last Updated on 09/07/2022 19:11:16 UTC
 <!--END_SECTION:waka-->
