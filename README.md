@@ -67,7 +67,7 @@ Top Languages
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-438%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-171%20Thousand%20lines%20of%20code-blue)
 
@@ -111,5 +111,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/07/2022 18:47:40 UTC
+ Last Updated on 11/07/2022 19:11:34 UTC
 <!--END_SECTION:waka-->
