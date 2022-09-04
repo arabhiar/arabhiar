@@ -67,36 +67,9 @@ Top Languages
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-171%20Thousand%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    10 commits     ███████░░░░░░░░░░░░░░░░░░   31.25% 
-🌆 Daytime    20 commits     ███████████████░░░░░░░░░░   62.5% 
-🌃 Evening    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌙 Night      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
 
 **I Mostly Code in JavaScript** 
 
@@ -111,5 +84,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2022 18:16:10 UTC
+ Last Updated on 04/09/2022 07:38:49 UTC
 <!--END_SECTION:waka-->
